@@ -2,10 +2,8 @@
     "DEFAULT":{
         "replyMessage":[
             "*Esta respuesta es un respuesta default* cuando no se consigue una palabra clave \n",
-            "la puedes desactivar en tu archivo .env DEFAULT_MESSAGE=false \n",
-            "tambien te quiero recordar que si presentas algun error pasarte por el repositorio \n",
-            "https://github.com/leifermendez/bot-whatsapp#chatbot-whatsapp-opensource \n",
-            "y recuerda tener la ultima versión del proyecto \n\n",
+            "Recuerda que siempre puedes ponerte en comunicacion con nosotros PolarCity👩🏻‍💻✌️\n",
+            "https://youtu.be/O4hf6e4zRZM\n",
             "Prueba escribiendo *hola* \n"
         ],
         "media":null,
@@ -40,7 +38,7 @@
             ]
         }
     },
-    "STEP_2":{
+    "STEP_2!":{
         "replyMessage":[
             "Perfecto, este es el menu ",
             "de lo que te ofrece PolarCity 🤖 \n\n",
@@ -116,7 +114,7 @@
         "media":null,
         "trigger":null
     },
-    "STEP_6":{
+    "STEP_6!":{
         "replyMessage":[
             "Perfecto, te voy a pasar la lista ",
             "de los temas que tengo y un breve video 🙂🤖 \n\n",
