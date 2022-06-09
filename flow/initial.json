@@ -34,7 +34,11 @@
             "Atención",
             "Atencion",
             "Horario", 
-            "horario"        
+            "horario",
+            "horario de atención",
+            "Horario de Atención",
+            "horario de antencion",
+            "horario de Atencion"       
         ],
         "key": "Horario"
     },

@@ -2,38 +2,42 @@
     "DEFAULT":{
         "replyMessage":[
             "     UPSS!!!🙊  Esta respuesta es predeterminada, cuando no se reconoce una pabara clave, el BOT mandará este mensaje, pero se le dará una ayuda, en la cuál puede consultar 🧑🏻‍💻 con mucha seguridad y eficiencia 😎\n",
-            "Recuerda que siempre puede ponerse en comunicacion con nosotros, nuestro propósito es brindarle el mejor soporte técnico 👨🏻‍🚀 recuerde que somos PolarCity👩🏻‍💻✌️\n\n",
+            "Recuerda que siempre puede ponerse en comunicacion con nosotros, nuestro propósito es brindarle el mejor soporte técnico 👨🏻‍🚀 recuerde que somos PolarCity👩🏻‍💻\n\n",
             "Puede enviar la palabra Menú y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
         ]
     },
     "MensajeBienvenida":{
         "replyMessage":[
-            "Hola! Soy Azuu 👩🏻‍💻 y soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial. 💁🏻‍♀️\n",
+            "Hola! Soy Azuu 👩🏻‍💻 y soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial dentro de Polar City. 💁🏻‍♀️\n",
 
-            "Para poder ver nuestras opciones existentes coloque Menú exactamente como se escribe en el ejemplo 🤳🏻 y envíelo en este chat 📲."
+            "Para poder ver nuestras opciones existentes coloque Menú 🤳🏻 y envíelo en este chat 📲."
         ]
     },
     "Menu":{
         "replyMessage":[
             " Yeah!!! este es el Menú existente 👨🏻‍🍳\n",
-            "Consultar Producto 🗄\n",
-            "Registrar Producto 📄\n",
-            "Buscar Producto 🔍\n",
+            "Soporte Técnico - Polar City 👩🏻‍💻\n",
+            "Ayuda! 🙋🏻‍♀️\n",
+            "¿Cómo funciona nuestro Bot? 🤷🏻‍♀️\n",
+            "Consultas 🤳🏻\n",
+            "¡Quienes me crearon! 🤲🏻\n",
+            "Ubicación 🚵🏻‍♂️\n",
+            "Horario de atención 🧏🏻‍♀️\n",
 
-            "En que le podemos ayudar?\n"
+            "\nPara utilizar el menú, digite la opción que desea realizar y envielo en este chat, automaticamente se le dará una respuesta en la cual puede interactuar con nuestro bot."
         ]
     },
     "Horario":{
         "replyMessage":[
             "     Nuestros Horarios de atención 🦻🏻\n",
-            "Nuestro ChatBot 🦾  está capacitado para responder las 24hrs. del día, los 365 días del año 🤳🏻, pero cuando se traté de personal administrativo solo están disponibles en el siguiente horario:\n",
-            "Lunes - Viernes : 8:00 a.m. 🕗 a 5:00 p.m. 🕔\n",
+            "Nuestro ChatBot 🦾  está capacitado para responder las *24hrs.* del día, *los 365 días del año* 🤳🏻, pero cuando se traté de personal administrativo solo están disponibles en el siguiente horario:\n",
+            "     ⏳ Lunes - Viernes : 8:00 a.m. 🕗 a 5:00 p.m. 🕔\n",
             "No cerrando por medio día"
         ]
     },
     "Ubicacion":{
         "replyMessage":[
-            "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque mis pies están bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n"
+            "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque tengo mis pies bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n"
         ]
     }
 }
