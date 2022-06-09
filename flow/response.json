@@ -8,10 +8,9 @@
     },
     "MensajeBienvenida":{
         "replyMessage":[
-            "Hola! soy Azuu👩🏻‍💻✌️y soy la asistente virtual de Polar City (Un Bot)🤖, lo primero \n",
-            "decirte Fuí creada para ayudarle en cualquier gestión empresarial. 💁🏻‍♀️  \n",
-            "\n Para poder ver nuestras opciones existentes coloque ",
-            "cursos o info o escribe audio"
+            "Hola! Soy Azuu 👩🏻‍💻 y soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial. 💁🏻‍♀️\n",
+
+            "Para poder ver nuestras opciones existentes coloque Menú exactamente como se escribe en el ejemplo 🤳🏻 y envíelo en este chat 📲."
         ]
     },
     "Menu":{
