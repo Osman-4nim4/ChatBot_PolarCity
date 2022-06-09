@@ -23,5 +23,18 @@
 
             "En que le podemos ayudar?\n"
         ]
+    },
+    "Horario":{
+        "replyMessage":[
+            "     Nuestros *Horarios de atención* 🦻🏻\n",
+            "Nuestro ChatBot 🦾  está capacitado para responder las 24hrs. del día, los 365 días del año 🤳🏻, pero cuando se traté de personal administrativo solo están disponibles en el siguiente horario:\n",
+            "Lunes - Viernes : 8:00 a.m. 🕗 a 5:00 p.m. 🕔\n",
+            "*No cerrando por medio día*"
+        ]
+    },
+    "Ubicacion":{
+        "replyMessage":[
+            "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque mis pies están bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n"
+        ]
     }
 }
