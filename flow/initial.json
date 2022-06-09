@@ -26,5 +26,26 @@
             "Menu"       
         ],
         "key": "Menu"
+    },
+    {
+        "keywords":  [
+            "atencion",
+            "atención",
+            "Atención",
+            "Atencion",
+            "Horario", 
+            "horario"        
+        ],
+        "key": "Horario"
+    },
+    {
+        "keywords":  [
+            "ubicacion",
+            "Ubicación",
+            "ubicación",
+            "Ubicacion"
+        ],
+        "key": "Ubicacion"
     }
+    
 ]
