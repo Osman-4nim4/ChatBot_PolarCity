@@ -10,19 +10,19 @@
         "replyMessage":[
             "Hola! Soy Azuu 👩🏻‍💻 y soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial dentro de Polar City. 💁🏻‍♀️\n",
 
-            "Para poder ver nuestras opciones existentes coloque Menú 🤳🏻 y envíelo en este chat 📲."
+            "Para poder ver nuestras opciones existentes coloque *Menú* 🤳🏻 y envíelo en este chat 📲."
         ]
     },
     "Menu":{
         "replyMessage":[
             " Yeah!!! este es el Menú existente 👨🏻‍🍳\n",
-            "Soporte Técnico - Polar City 👩🏻‍💻\n",
-            "Ayuda! 🙋🏻‍♀️\n",
-            "¿Cómo funciona nuestro Bot? 🤷🏻‍♀️\n",
-            "Consultas 🤳🏻\n",
-            "¡Quienes me crearon! 🤲🏻\n",
-            "Ubicación 🚵🏻‍♂️\n",
-            "Horario de atención 🧏🏻‍♀️\n",
+            "*Soporte Técnico - Polar City* 👩🏻‍💻\n",
+            "*Ayuda!* 🙋🏻‍♀️\n",
+            "*¿Cómo funciona nuestro Bot?*🤷🏻‍♀️\n",
+            "*Consultas* 🤳🏻\n",
+            "*¡Quienes me crearon!* 🤲🏻\n",
+            "*Ubicación 🚵🏻‍♂️*\n",
+            "*Horario de atención* 🧏🏻‍♀️\n",
 
             "\nPara utilizar el menú, digite la opción que desea realizar y envielo en este chat, automaticamente se le dará una respuesta en la cual puede interactuar con nuestro bot."
         ]
@@ -39,5 +39,32 @@
         "replyMessage":[
             "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque tengo mis pies bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n"
         ]
+    },
+    "Ayuda":{
+        "replyMessage":[
+            "Hey!!, en polarCity hemos creado un bot llamado Azuu para poder ayudarlo en cualquier duda o consulta que usted tenga🤔\n",
+            "Recuerda que puedes hacer consultas de nuestros productos🤟🏼📃\n",
+            "😎Escriba la palabra *menu* para empezar😏\n"
+        ]
+
+    },
+    "Soporte":{
+        "replyMessage":[
+            "Para cualquier duda pregunta o consulta puede comunicarse directamente al siguiente correo electronico🫂\n",
+            "👉 soportepolarcity@gmail.com\n",
+            "Aca puede informar a nuestro personal altamente capacitado👨🏻‍💻👩🏻‍💻 sobre problemas de suma importancia o problemas con nuestro chat bot🤖 \n\n",
+            "Muchas gracias por su confianza🦾\n\n",
+            "Att. Equipo de soporte Polar City🙋🏻‍♂️"
+        ]
+
+    },
+    "Creacion":{
+        "replyMessage":[
+            "Mi creacion esta a cargo por un grupo de personas muy talentosas😎\n",
+            "Los cuales llevan por nombre Soporte Tecnico de PolarCity👩🏻‍💻🦾\n"
+    
+        ]
+
     }
+     
 }

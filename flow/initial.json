@@ -50,6 +50,42 @@
             "Ubicacion"
         ],
         "key": "Ubicacion"
+    },
+    {
+        "keywords":  [
+            "ayuda",
+            "Ayuda",
+            "me pueden ayudar",
+            "help",
+            "asistencia",
+            "auxilio", 
+            "apoyo",
+            "socorro"     
+        ],
+        "key": "Ayuda"
+    },
+    {
+        "keywords":  [
+            "soporte",
+            "Soporte",
+            "soporte tecnico",
+            "Soporte técnico",
+            "Soporte tecnico",
+            "soporte técnico",
+            "tengo un problema"
+         
+        ],
+        "key": "Soporte"
+    },
+    {
+        "keywords":  [
+            "Quienes te crearon",
+            "quienes te crearon ",
+            "quien es tu creador",
+            "quien te creo",
+            "quien es tu padre"
+         
+        ],
+        "key": "Creacion"
     }
-    
 ]
