@@ -8,21 +8,23 @@
     },
     "MensajeBienvenida":{
         "replyMessage":[
-            "Hola! Soy Azuu 👩🏻‍💻 y soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial dentro de Polar City. 💁🏻‍♀️\n",
+            "Hola! Soy Azuu 👩🏻‍💻, soy la asistente virtual de Polar City (Un Bot). Fuí creada para ayudarle en cualquier gestión empresarial dentro de Polar City. 💁🏻‍♀️\n",
 
-            "Para poder ver nuestras opciones existentes coloque Menú 🤳🏻 y envíelo en este chat 📲."
+            "Para poder ver nuestras opciones existentes coloque\n",
+            "*Menú*🤳🏻\n",
+            " Y envíelo en este chat 📲"
         ]
     },
     "Menu":{
         "replyMessage":[
             " Yeah!!! este es el Menú existente 👨🏻‍🍳\n",
-            "Soporte Técnico - Polar City 👩🏻‍💻\n",
-            "Ayuda! 🙋🏻‍♀️\n",
-            "¿Cómo funciona nuestro Bot? 🤷🏻‍♀️\n",
-            "Consultas 🤳🏻\n",
-            "¡Quienes me crearon! 🤲🏻\n",
-            "Ubicación 🚵🏻‍♂️\n",
-            "Horario de atención 🧏🏻‍♀️\n",
+            "- *Soporte Técnico - Polar City* 👩🏻‍💻\n",
+            "- *Ayuda!* 🙋🏻‍♀️\n",
+            "- *¿Cómo funciona nuestro Bot?*🤷🏻‍♀️\n",
+            "- *Consultas* 🤳🏻\n",
+            "- *¡Quienes me crearon!* 🤲🏻\n",
+            "- *Ubicación 🚵🏻‍♂️*\n",
+            "- *Horario de atención* 🧏🏻‍♀️\n",
 
             "\nPara utilizar el menú, digite la opción que desea realizar y envielo en este chat, automaticamente se le dará una respuesta en la cual puede interactuar con nuestro bot."
         ]
@@ -32,12 +34,91 @@
             "     Nuestros Horarios de atención 🦻🏻\n",
             "Nuestro ChatBot 🦾  está capacitado para responder las *24hrs.* del día, *los 365 días del año* 🤳🏻, pero cuando se traté de personal administrativo solo están disponibles en el siguiente horario:\n",
             "     ⏳ Lunes - Viernes : 8:00 a.m. 🕗 a 5:00 p.m. 🕔\n",
-            "No cerrando por medio día"
+            "No cerrando por medio día",
+            "Puede enviar la palabra Menú y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
         ]
     },
     "Ubicacion":{
         "replyMessage":[
-            "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque tengo mis pies bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n"
+            "     Estrictamente hablando vivo en la nuve ☁️, pero no te preocupes porque tengo mis pies bien plantados sobre la tierra 🌎 y siempre estoy dispuesta en ayudarle en lo que necesite 🙉\n\n",
+            "Puede enviar la palabra Menú y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
         ]
-    }
+        
+    },
+    "Ayuda":{
+        "replyMessage":[
+            "Hey!!, en polarCity hemos creado un bot llamado Azuu para poder ayudarlo en cualquier duda o consulta que usted tenga🤔\n",
+            "Recuerda que puedes hacer consultas de nuestros productos🤟🏼📃\n",
+            "Escriba la palabra *menu* para empezar😏\n"
+        ]
+
+    },
+    "Soporte":{
+        "replyMessage":[
+            "Para cualquier duda pregunta o consulta puede comunicarse directamente al siguiente correo electronico🫂\n",
+            "👉 soportepolarcity@gmail.com\n",
+            "Aca puede informar a nuestro personal altamente capacitado👨🏻‍💻👩🏻‍💻 sobre problemas de suma importancia o problemas con nuestro chat bot🤖 \n\n",
+            "Muchas gracias por su confianza🦾\n\n",
+            "Att. Equipo de soporte Polar City🙋🏻‍♂️\n\n",
+            "Puede enviar la palabra *Menú* y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
+        ]
+
+    },
+    "Creacion":{
+        "replyMessage":[
+            "Un grupo de personas muy talentosas fueron responsables de mi creación😎\n",
+            "Puede enviar la palabra Menú y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
+        ]
+
+        
+    },
+    "Funcion":{
+        "replyMessage":[
+            "Nuestro Bot esta diseñado para poder aclarar sus dudas sobre PolarCity😉\n",
+            "Aca puede consultar nuestros productos🧺,puede consultar nuestros precios💰\n",
+            "Y poder generar ordenes de compra💸 \n\n",
+            "Puede enviar la palabra Menú y enviarlo en este chat 🤳🏻, para poder consultar más opciones existentes"
+        ]
+     
+    },
+    "Consultas":{
+         "replyMessage":[
+            "- *Consultar productos* 🤳🏻🧺\n",
+            "- *Consultar precios* 🤳🏻💲\n"
+       ]
+         
+    },
+    "Whatsapp":{
+        "replyMessage":[
+           "  Que alegre verle por aquí 🙌🏻",
+           "para nosotros es un placer porderle servir 🥰\n",
+           "Para utilizar nuestras opciones dígite la palabra *Menú*"
+      ]
+
+   },
+   "Producto":{
+    "replyMessage":[
+       "Para poder consultar cuales son nuestros productos🧺",
+       "Ingresa al siguiente link👇",
+       "https://bit.ly/3mFpTpM\n",
+       "O puedes escanear el siguiente QR😉"
+
+
+  ],
+    "media":"https://media.giphy.com/media/nnxJVTlisQFzmbXC8r/giphy.gif",
+    "trigger":null
+
+    },
+    "Precio":{
+    "replyMessage":[
+       "Para poder consultar cuales son nuestros precios🧺",
+       "Ingresa al siguiente link👇",
+       "https://bit.ly/3mFpTpM\n",
+       "O puedes escanear el siguiente QR😉"
+
+  ],
+    "media":"https://media.giphy.com/media/nnxJVTlisQFzmbXC8r/giphy.gif",
+    "trigger":null
+}
+
 }
