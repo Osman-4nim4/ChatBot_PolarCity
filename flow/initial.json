@@ -72,20 +72,76 @@
             "Soporte técnico",
             "Soporte tecnico",
             "soporte técnico",
-            "tengo un problema"
+            "Como funciona el bot"
          
         ],
         "key": "Soporte"
     },
     {
         "keywords":  [
-            "Quienes te crearon",
-            "quienes te crearon ",
             "quien es tu creador",
             "quien te creo",
+            "quien te creó",
+            "Quien te creó",
+            "Quien te creo",
             "quien es tu padre"
          
         ],
         "key": "Creacion"
+    },
+    {
+        "keywords":  [
+            "Como funciona nuestro bot",
+            "como funciona nuestro bot",
+            "como funciona",
+            "Como funciona ",
+            "Cómo funciona nuestro Bot"
+
+        ],
+        "key": "Funcion"
+    },
+    {
+        "keywords":  [
+            "Consultas",
+            "consultas",
+            "Tus consultas"
+        ],
+        "key": "Consultas"
+    },
+    {
+        "keywords":  [
+            "Consultar producto",
+            "consultar producto",
+            "Producto",
+            "producto",
+            "Que Producto ofrece",
+            "que Producto ofrece",
+            "Que vende",
+            "que vende"
+        ],
+        "key": "Producto"
+    },
+    {
+        "keywords":  [
+            "Precio",
+            "precio",
+            "Cuales son los precios",
+            "cuales son los precios",
+            "Que precio tiene",
+            "que precio tiene",
+            "Cuanto cuesta",
+            "cuanto cuesta",
+            "Precios",
+            "precios"
+
+        ],
+        "key": "Precio"
+    },
+    {
+        "keywords":  [
+            "Vengo dirigido desde la plataforma de Polar City.",
+            "vengo dirigido desde la plataforma de polar city."   
+        ],
+        "key": "Whatsapp"
     }
 ]
